@@ -11,7 +11,7 @@ It demonstrates the practical use of queue data structures in solving real-world
 
 - [Objective](#objectives)
 - [Features](#features)  
-- [Tech Stacts](#techs)  
+- [Tech Stack](#techs)  
 - [Working](#working)  
 - [Execution](#execution)
 - [Learning Outcomes](#learning-outcomes) 
@@ -59,6 +59,8 @@ It demonstrates the practical use of queue data structures in solving real-world
 
 - Compile the C program using GCC or any C compiler.
 - Run the simulation and observe how cars are queued and processed by washing stations.
+
+---
 
 ## Learning Outcomes
 
