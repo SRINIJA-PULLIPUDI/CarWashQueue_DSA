@@ -11,7 +11,7 @@ It demonstrates the practical use of queue data structures in solving real-world
 
 - [Objective](#objectives)
 - [Features](#features)  
-- [Tech Stack](#techs)  
+- [Tech Stack](#tech-stack)  
 - [Working](#working)  
 - [Execution](#execution)
 - [Learning Outcomes](#learning-outcomes) 
